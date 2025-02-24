@@ -1,1 +1,1 @@
-// Placeholder content for app.js in micro-frontend-boilerplate
+console.log('Micro Frontend Boilerplate Loaded');
